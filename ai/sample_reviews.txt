@@ -1,0 +1,19 @@
+The app keeps crashing whenever I try to upload large files. It's really frustrating because I need to share important documents with my team but can't do it reliably.
+
+I love the concept of this service, but the loading times are incredibly slow. Sometimes it takes 30+ seconds just to load my dashboard, which makes it unusable for quick tasks.
+
+The user interface is confusing and not intuitive at all. I spent 20 minutes trying to figure out how to change my profile settings. The navigation menu doesn't make sense.
+
+Customer support is non-existent. I've been waiting for a response to my ticket for over a week now. When you're paying for a service, you expect better support.
+
+The mobile app doesn't sync properly with the web version. I'll make changes on my phone and they don't show up on my computer, which creates confusion and duplicated work.
+
+Battery drain is excessive when using this app. My phone goes from 100% to 20% in just a couple hours of regular usage. This needs to be optimized.
+
+The search functionality is broken. I can't find files that I know exist, and the search results are completely irrelevant to what I'm looking for.
+
+Notifications don't work properly. I'm supposed to get alerts when someone shares a document with me, but I never receive them, causing me to miss important updates.
+
+The pricing is way too expensive for what you get. Compared to competitors, this service offers fewer features at a much higher cost.
+
+Data export is practically impossible. I've been trying to download my data for backup purposes but the export feature either fails or produces corrupted files.

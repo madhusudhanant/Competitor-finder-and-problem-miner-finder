@@ -1,0 +1,79 @@
+{
+    "problems": [
+        {
+            "problem_statement": "The app crashes consistently when attempting to upload large files, preventing reliable document sharing.",
+            "category": "Technical",
+            "severity": "High",
+            "affected_feature": "File upload, App stability",
+            "user_impact": "Inability to share important documents, frustration, unreliability for team collaboration."
+        },
+        {
+            "problem_statement": "The application experiences incredibly slow loading times, often exceeding 30 seconds for the dashboard, making it unusable for quick tasks.",
+            "category": "Performance",
+            "severity": "High",
+            "affected_feature": "Dashboard loading, General app responsiveness",
+            "user_impact": "Inability to perform quick tasks, significant time wastage, frustration."
+        },
+        {
+            "problem_statement": "The user interface is confusing and unintuitive, with a poorly designed navigation menu, making simple actions like changing profile settings difficult.",
+            "category": "UI/UX",
+            "severity": "Medium",
+            "affected_feature": "User interface, Navigation menu, Profile settings",
+            "user_impact": "Difficulty in finding features, time wastage, frustration, poor user experience."
+        },
+        {
+            "problem_statement": "Customer support is unresponsive, with users waiting over a week for ticket responses, which is unacceptable for a paid service.",
+            "category": "Support",
+            "severity": "High",
+            "affected_feature": "Customer support system",
+            "user_impact": "Inability to get help, feeling ignored, loss of trust, dissatisfaction with paid service."
+        },
+        {
+            "problem_statement": "The mobile app fails to sync properly with the web version, leading to inconsistent data, confusion, and duplicated work.",
+            "category": "Technical",
+            "severity": "High",
+            "affected_feature": "Data synchronization, Mobile app, Web app",
+            "user_impact": "Data inconsistency, confusion, wasted effort, unreliability of data across platforms."
+        },
+        {
+            "problem_statement": "The app causes excessive battery drain, significantly reducing phone battery life during regular usage.",
+            "category": "Performance",
+            "severity": "Medium",
+            "affected_feature": "App performance, Battery optimization",
+            "user_impact": "Reduced phone battery life, inconvenience, potential impact on phone usage for other tasks."
+        },
+        {
+            "problem_statement": "The search functionality is broken, failing to locate existing files and providing irrelevant results.",
+            "category": "Functionality",
+            "severity": "High",
+            "affected_feature": "Search function",
+            "user_impact": "Inability to find necessary files, wasted time, frustration, reduced productivity."
+        },
+        {
+            "problem_statement": "Notifications are not delivered reliably, causing users to miss important alerts, such as document sharing updates.",
+            "category": "Functionality",
+            "severity": "High",
+            "affected_feature": "Notification system",
+            "user_impact": "Missed important updates, lack of awareness, potential delays in collaboration, frustration."
+        },
+        {
+            "problem_statement": "The service is overpriced relative to its features, offering less value than competitors at a higher cost.",
+            "category": "Pricing/Value",
+            "severity": "Medium",
+            "affected_feature": "Pricing structure, Feature set",
+            "user_impact": "Perceived poor value, reluctance to subscribe/continue, consideration of alternatives."
+        },
+        {
+            "problem_statement": "The data export feature is broken, either failing to complete or producing corrupted files, preventing users from backing up their data.",
+            "category": "Functionality",
+            "severity": "High",
+            "affected_feature": "Data export functionality",
+            "user_impact": "Inability to backup data, potential data loss, lack of trust in data security, vendor lock-in concerns."
+        }
+    ],
+    "summary": {
+        "total_problems": 10,
+        "most_common_category": "Functionality",
+        "overall_sentiment": "Overwhelmingly negative, with users experiencing critical blockers, significant frustration, and a lack of core functionality and support."
+    }
+}
