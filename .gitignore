@@ -8,6 +8,8 @@ node_modules/
 .env
 .env.local
 .env.*.local
+.env.*
+!.env.example
 
 # Python Virtual Environment
 venv/
@@ -26,6 +28,7 @@ __pycache__/
 # Testing
 .pytest_cache/
 .coverage
+.coverage.*
 htmlcov/
 .tox/
 *.cover
@@ -78,3 +81,7 @@ dist/
 *.temp
 *.bak
 *~
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/

@@ -71,7 +71,7 @@ def test_problem_extraction():
             return True
             
     except Exception as e:
-        print(f"\n❌ ERROR: {str(e)}")
+        print(f"\n ERROR: {str(e)}")
         print("\nTroubleshooting:")
         print("  1. Verify your GEMINI_API_KEY is valid")
         print("  2. Check your internet connection")
