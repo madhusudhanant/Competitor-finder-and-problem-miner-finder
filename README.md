@@ -1,24 +1,12 @@
-# venv activate
-.\venv\Scripts\Activate.ps1
+# 🚀 Competitor Finder and Problem Miner Finder
 
-# task 12 run commend
-python ai/extract_problems.py --output ai/extracted_problems.txt
+An AI-powered application that discovers startup competitors and mines user pain points from Reddit using crawling technique.
 
+## 🌐 Live Demo
 
-# fastapi server
-uvicorn src.your_ai_service.api.main:app --reload
-http://127.0.0.1:8000/docs
+**API Documentation**
+https://competitor-finder-aiservices.onrender.com/docs
 
+## 💻 GitHub Repository
 
-# check endpoint
-POST /api/v1/problems/mine
-
-{
-  "competitor_name": "Notion",
-  "platforms": ["reddit"],
-  "max_posts": 50,
-  "include_comments": false
-}
-
-# for restarting your fast api server
-echo "Restart your FastAPI server by pressing Ctrl+C in the uvicorn terminal, then run: python main.py"
+https://github.com/madhusudhanant/Competitor-finder-and-problem-miner-finder
